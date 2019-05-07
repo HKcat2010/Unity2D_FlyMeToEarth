@@ -6,9 +6,17 @@ Stone IceManager 是冰块和陨石的行为逻辑
 
 LightSource 是光源
 
-GUIManager 是手势逻辑
+PlayerControl 是手势识别
 
-FreshMen是新手引导
+Ship 是飞船逻辑
+
+GUIManager 是用户界面逻辑
+
+GloabalVariable 是变量存储箱子
+
+
+
+FreshMen 是新手引导
 
 Bug 是虫洞逻辑
 

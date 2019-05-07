@@ -14,7 +14,7 @@ GUIManager 是用户界面逻辑
 
 GloabalVariable 是变量存储箱子
 
-
+SystemInit是软件启动系统初始化
 
 FreshMen 是新手引导
 

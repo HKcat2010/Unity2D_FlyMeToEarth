@@ -7,7 +7,7 @@ public class FreshMan : MonoBehaviour
 {
     int Step = 0; //新手步骤
     Color CloseText= new Color(0, 0, 0, 0);   //关闭时的颜色
-    Color OpenText = new Color(255, 255, 255, 255);   //关闭时的颜色
+    Color OpenText = new Color(255, 255, 255, 255);   //显示时的颜色
 
     // Use this for initialization
     void Start ()

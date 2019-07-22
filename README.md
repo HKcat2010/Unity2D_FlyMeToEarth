@@ -38,7 +38,7 @@ case 冰块：冰块使用个数++;<br>
           {<br>
           光源设定为反射点();<br>
           反射向量计算：
-          ![image](https://github.com/HKcat2010/MyPhoto/edit/master/FlymeToEarthP1.PNG)
+          ![image](https://github.com/HKcat2010/MyPhoto/blob/master/FlymeToEarthP1.PNG)
           <br>
           }<br>
           划线;break;<br>

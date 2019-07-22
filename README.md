@@ -38,7 +38,10 @@ case 冰块：冰块使用个数++;<br>
           新建反射光线，出射点需要有偏移避免“直接撞上刚体”{<br>
           {<br>
           光源设定为反射点();<br>
-          反射向量计算：$$\vec{ref} = 2\vec{N}\cdot\frac{\vec{N}\cdot\vec{I}}{|\vec{N}|^2}+\vec{I}$$
+          反射向量计算：<br>
+$$
+\vec{ref} = 2\vec{N}\cdot\frac{\vec{N}\cdot\vec{I}}{|\vec{N}|^2}+\vec{I}
+$$
           <br>
           }<br>
           划线;break;<br>

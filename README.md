@@ -43,8 +43,8 @@ case 冰块：冰块使用个数++;<br>
           }<br>
           划线;break;<br>
 case 石块：不划线;break;<br>
-case 虫洞：不划线;break;<br>
-case 飞船：不划线;break;<br>
+case 虫洞：入口记录，出口新建光源;break;<br>
+case 飞船：不划线，记录状态;break;<br>
 case 黑洞：不划线;break;<br>
 }<br>
 }<br>

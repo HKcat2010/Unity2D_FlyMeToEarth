@@ -6,9 +6,9 @@ GUIManager 是用户界面逻辑
 
 GloabalVariable 是变量存储
 
-SystemInit是软件启动系统初始化
+SystemInit是系统初始化 {读档到全局数据类，新手判定，构建不会被销毁的object，将全局数据挂载在object上}
 
-FreshMen 是新手引导
+FreshMen 是新手引导 {新手标志位}
 
 PlayerControl 是手势识别
 
